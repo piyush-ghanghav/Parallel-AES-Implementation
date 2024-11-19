@@ -36,7 +36,7 @@ To use this project, follow these steps:
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/piyush-ghanghav/Parallel-AES-Implementation.git
-   cd https://github.com/piyush-ghanghav Parallel-AES-Implementation.git
+   cd Parallel-AES-Implementation
    ```
 
 2. **Compile the Code**:  
